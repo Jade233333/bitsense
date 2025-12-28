@@ -18,7 +18,7 @@ Last thing is about the theme, how do I want it to look. Monkeytype has quite a 
 
 In the end, I want to make it simple and minimalistic. That is the standard I choose a tool now, so I will make one by this standard.
 
-### Process
+### Progress
 
 Key point is about configurable and modular. Maybe I should start with input and output.
 The input is simple, the users keystroke. For output, after each stroke we need to verify the correctness and give different feedback on that. And in the end, we have stats and feedback about each session including speed and correctness.
